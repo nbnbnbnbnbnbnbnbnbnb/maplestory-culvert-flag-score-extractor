@@ -22,10 +22,10 @@ Record a scrolling cropped `.mp4` video from top of the list and bottom by scrol
 
 (You can scroll a lot faster than the gif. Shorter video = shorter procesing time.)
 
-![](https://github.com/j3li/maplestory-culvert-flag-parser/blob/main/recording%20example.gif)
+![](https://github.com/nbnbnbnbnbnbnbnbnbnb/maplestory-culvert-flag-score-extractor/blob/main/recording%20example.gif)
 
 I use ShareX (portable version available)'s Screen Recording to select the culvert region.
-![](https://github.com/j3li/maplestory-culvert-flag-parser/blob/main/sharex%20example.png)
+![](https://github.com/nbnbnbnbnbnbnbnbnbnb/maplestory-culvert-flag-score-extractor/blob/main/sharex%20example.png)
 
 ### 3. Running the Code
 Navigate to **maplestory-culvert-flag-score-extractor** and run `python app.py` in terminal and open the website at `http://127.0.0.1:5000`. Upload the IGNs list and the recording.

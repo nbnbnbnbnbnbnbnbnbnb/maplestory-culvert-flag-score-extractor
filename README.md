@@ -3,7 +3,7 @@
 Extracts IGNs, Culvert, and Flag Race scores from video of member participation status by using **Tesseract OCR** and **Python**
 ## STEPS
 ### 1. INSTALLING TESSERACT OCR
-Download [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Installation.html) and [tessdata_best](https://github.com/tesseract-ocr/tessdata_best). Delete tessdata and put tessdata_best files into tessdata. Then change line 50 in `app.py` to
+Download [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Installation.html) and [tessdata_best](https://github.com/tesseract-ocr/tessdata_best). Delete tessdata and put tessdata_best files into tessdata. Then change line 78 in `app.py` to
 ```python
 path_to_tesseract = r"PATH/TO/YOUR/tesseract.exe"
 ```
